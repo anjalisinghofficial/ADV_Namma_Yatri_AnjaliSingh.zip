@@ -19,9 +19,9 @@ An end-to-end analysis of Namma Yatri, a ride-hailing platform. The project iden
 
 🛠 Tools & Technologies
 
-Tableau – Dashboarding & visualisation
-PowerPoint – Technical & business presentations
-MS Word – Detailed documentation
+1. Power BI – Dashboarding & visualisation
+2. PowerPoint – Technical & business presentations
+3. MS Word – Detailed documentation
 
 🚀 How to Use
 
