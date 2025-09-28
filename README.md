@@ -1,5 +1,6 @@
 # ADV_Namma_Yatri_AnjaliSingh.zip
 📌 Overview
+
 An end-to-end analysis of Namma Yatri, a ride-hailing platform. The project identifies demand patterns, cancellations, payment preferences, and zone-level performance, and translates these insights into actionable business strategies.
 
 📂 Project Components
@@ -17,11 +18,13 @@ An end-to-end analysis of Namma Yatri, a ride-hailing platform. The project iden
 5. Midday Conversion: Lower conversions midday → scope for targeted promotions.
 
 🛠 Tools & Technologies
+
 Tableau – Dashboarding & visualisation
 PowerPoint – Technical & business presentations
 MS Word – Detailed documentation
 
 🚀 How to Use
+
 -Open the PowerPoint files for structured technical & business reports.
 -Explore the Tableau dashboard to interact with filters (time, zone, payment).
 -Refer to the Word report for methodology and detailed answers.
