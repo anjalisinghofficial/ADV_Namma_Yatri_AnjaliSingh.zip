@@ -6,8 +6,8 @@ An end-to-end analysis of Namma Yatri, a ride-hailing platform. The project iden
 📂 Project Components
 1. Deliverable	Description
 2. Technical Methodology Report (PPT): Data preparation, joins, cleaning, calculated fields, and exploratory visualizations.
-3. Business Decision-Making Report (PPT)	Key findings, operational insights, and strategic recommendations.
-4. Tableau Dashboard (.twbx)	Single consolidated interactive dashboard with filters (time, zone, payment).
+3. Business Decision-Making Report (PPT)	Key findings, operational insights, and strategic recommendations
+4. Power BI Dashboard-	Single consolidated interactive dashboard with filters (time, zone, payment).
 5. Written Report (Word)	Step-by-step answers to assigned tasks.
 
 📊 Key Insights
